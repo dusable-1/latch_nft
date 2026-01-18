@@ -1,0 +1,9 @@
+{
+  "name": "latch-ui",
+  "private": true,
+  "version": "1.0.0",
+  "description": "LATCH Mini App + Creator (no DB) using GitHub JSON storage via Vercel API",
+  "engines": {
+    "node": ">=18"
+  }
+}
