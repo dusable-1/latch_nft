@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/miniapp/index.html" },
+    { "source": "/creator", "destination": "/creator/index.html" },
+    { "source": "/creator/(.*)", "destination": "/creator/$1" },
+    { "source": "/miniapp/(.*)", "destination": "/miniapp/$1" }
+  ]
+}
